@@ -124,4 +124,4 @@ A quick overview of the available REST API endpoints:
 * `POST /system/report` - Trigger a background report generation (uses distributed locking)
 
 ---
-*Built with ❤️ using Node.js and Redis.*
+
